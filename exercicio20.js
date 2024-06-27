@@ -18,7 +18,6 @@ let alunos = [
 
     }
 ];
-
 for (let i = 0; i < alunos.length; i++){
     console.log(`Nome do aluno: ${alunos[i].nome}`);
     console.log(`Idade do aluno: ${alunos[i].idade}`);
